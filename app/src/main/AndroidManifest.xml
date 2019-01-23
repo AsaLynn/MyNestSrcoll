@@ -19,7 +19,15 @@
         </activity>
         <activity android:name=".scroll.SrollTabActivity" />
         <activity android:name=".demo.AppBarActivity" />
-        <activity android:name=".scroll.AppBarTabActivity"></activity>
+        <activity android:name=".scroll.AppBarTabActivity" />
+        <activity
+            android:name=".demo.Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".demo.Main3Activity"
+            android:label="@string/title_activity_main3"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
