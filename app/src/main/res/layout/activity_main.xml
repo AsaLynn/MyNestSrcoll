@@ -34,7 +34,7 @@
             android:text="我会划到顶部，固定住\n 假装是个横向类型栏目"
             android:textColor="@android:color/white" />
 
-        <android.support.v7.widget.RecyclerView
+        <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rv"
             android:layout_width="match_parent"
             android:layout_height="500dp" />

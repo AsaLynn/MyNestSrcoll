@@ -3,9 +3,9 @@ package com.zxn.nestsrcoll.demo;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.zxn.nestsrcoll.R;
 import com.zxn.nestsrcoll.adapter.SupportPoorAdapter;

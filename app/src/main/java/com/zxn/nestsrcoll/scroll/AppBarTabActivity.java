@@ -3,8 +3,8 @@ package com.zxn.nestsrcoll.scroll;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v4.view.ViewPager;
-import android.support.v7.app.AppCompatActivity;
+import androidx.viewpager.widget.ViewPager;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.kekstudio.dachshundtablayout.DachshundTabLayout;
 import com.zxn.nestsrcoll.R;
